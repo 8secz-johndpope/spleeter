@@ -26,6 +26,11 @@ Want to try it out ? Just clone the repository and install a
 [Conda](https://github.com/deezer/spleeter/wiki/1.-Installation#using-conda)
 environment to start separating audio file as follows:
 
+
+## macOS 
+brew install ffmpeg
+
+
 ```bash
 git clone https://github.com/Deezer/spleeter
 conda env create -f spleeter/conda/spleeter-cpu.yaml
